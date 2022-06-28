@@ -1,4 +1,4 @@
-module pinyincode
+module github.com/koulerz/pinyincode
 
 go 1.18
 
