@@ -5,7 +5,7 @@
 
 # Installation
 ```
-go get github.com/koulerz/pinyincode
+go get -u github.com/koulerz/pinyincode
 ```
 
 # Warning ⚠️
